@@ -17,6 +17,7 @@ Digging into Sintec's data revealed a strong global position with 21.15% market 
 ![Frame 40](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/556292cb-e395-44c3-b932-9e0cf42589c6)
 
 #4 AirBnb Listings
+## 
 This Power BI project for a client explored the impact of updated Airbnb prices on host ratings. I analyzed Airbnb listings to see how price changes affected overall host ratings and identified which hosts managed to maintain their ratings despite price adjustments. The analysis also investigated the relationship between property types and rating stability.
 ![Frame 45](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/fc808a68-9a54-4eda-b1cf-2112e28e5b23)
 
