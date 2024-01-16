@@ -23,7 +23,8 @@ Digging into Sintec's data revealed a strong global position with 21.15% market 
 
 This dashboard was built for Maven's Power Outage Challenge. Its primary purpose was to analyze the past 20 years of data and transform it into a clear and insightful report. This report will help diagnose and understand the causes of power outages
 ###
-![DP](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/c7a9cd54-07d6-4e15-b895-57bd8676b022)
+![Frame 47](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/538d11bb-f49e-4529-8f84-c6bf70880834)
+
 #
 #5 AirBnb Listings
 
