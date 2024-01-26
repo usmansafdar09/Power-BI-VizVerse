@@ -9,13 +9,13 @@ Empowered HR teams with a centralized, real-time dashboard, providing data-drive
 #
 #2 Customer Churn Rate Analysis, Telcom
 
-Examined churn rates with advanced analytics, pinpointing triggers and providing actionable insights to address customer churn effectively.
+I examined churn rates with advanced analytics, pinpointing triggers and providing actionable insights to address customer churn effectively.
 ###
 ![Tel-Das-V1](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/eace7362-e1d3-4042-81cc-1a28bf44d399)
 #
 #3 Competitor Analysis, Sintec
 
-Digging into Sintec's data revealed a strong global position with 21.15% market share, dominating the USA with 31.51%. They enjoyed an impressive 18.8% growth in 2021, fueled by a $518.37 revenue surge through their partnership with Artisans, their primary competitor in Germany (50%+ share).
+Digging into Sintec's data revealed a strong global position with a 21.15% market share, dominating the USA with 31.51%. They enjoyed an impressive 18.8% growth in 2021, fueled by a $518.37 revenue surge through their partnership with Artisans, their primary competitor in Germany (50%+ share).
 ###
 ![Frame 40](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/556292cb-e395-44c3-b932-9e0cf42589c6)
 #
@@ -26,7 +26,15 @@ This dashboard was built for Maven's Power Outage Challenge. Its primary purpose
 ![Frame 47](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/538d11bb-f49e-4529-8f84-c6bf70880834)
 
 #
-#5 AirBnb Listings
+#5 Maven LEGO Challenge
+
+The dataset encompasses LEGO sets released from 1970 to 2022, providing information on each set's theme, pieces, recommended age, retail price, and image. The primary objectives of the challenge are to conduct an Exploratory Data Analysis (EDA) to unveil prevalent trends and perform a descriptive analysis of LEGO sets over a five-decade period.
+###
+![Frame 53](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/8aaabdcd-5cb5-4604-aea5-4884de56c504)
+
+#
+
+#6 Airbnb Listings
 
 This Power BI project for a client explored the impact of updated Airbnb prices on host ratings. I analyzed Airbnb listings to see how price changes affected overall host ratings and identified which hosts managed to maintain their ratings despite price adjustments.
 ###
