@@ -38,7 +38,7 @@ The dataset for Maven Roasters, a fictional coffee shop with three locations in 
 ![MA_DP](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/c7acb692-2d2f-45d7-ac13-826b7bac7083)
 
 #
-#6 Maven Financial Customer Complaints
+#7 Maven Financial Customer Complaints
 
 Consumer complaints on financial products & services for Bank of America from 2017 to 2023, including the dates the complaint was submitted to the CFPB and then sent to the company, the product and issue mentioned in the complaint, and the company's response.
 ###
@@ -46,7 +46,16 @@ Consumer complaints on financial products & services for Bank of America from 20
 
 
 #
-#8 Airbnb Listings
+#8 UK Railway Analysis Dashboard
+
+The dashboard provides an overview of the explanatory analysis for Mail Railways over four months in 2024. It consists of four main sections: Trips Analysis, Revenue Analysis, Train Delays, and Ticket Analysis. Use the filters and button tabs for insights, patterns, and exploration.
+###
+![MV_P_DP_V2](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/e5cdaef5-b0b4-4a21-94fb-017cd3e253d4)
+
+
+
+#
+#9 Airbnb Listings
 
 This Power BI project for a client explored the impact of updated Airbnb prices on host ratings. I analyzed Airbnb listings to see how price changes affected overall host ratings and identified which hosts managed to maintain their ratings despite price adjustments.
 ###
