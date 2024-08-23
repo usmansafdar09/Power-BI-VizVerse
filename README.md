@@ -44,18 +44,22 @@ Consumer complaints on financial products & services for Bank of America from 20
 ###
 ![MV_CC_1](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/39611a3d-4424-4f44-a828-b0079ce18f5c)
 
-
 #
 #8 UK Railway Analysis Dashboard
 
 The dashboard provides an overview of the explanatory analysis for Mail Railways over four months in 2024. It consists of four main sections: Trips Analysis, Revenue Analysis, Train Delays, and Ticket Analysis. Use the filters and button tabs for insights, patterns, and exploration.
 ###
 ![MV_P_DP_V2](https://github.com/usmansafdar09/Power-BI-VizVerse/assets/59840337/e5cdaef5-b0b4-4a21-94fb-017cd3e253d4)
+#
 
+#9 Marketing Campaign Dashboard
 
+The dashboard provides an overview of the main KPIs and channel-wise performance, offering a detailed analysis of total spending and conversion revenue for the year 2023. It aims to provide insights to improve marketing campaigns across social platforms.
+###
+![Frame 48095718](https://github.com/user-attachments/assets/d859a677-5b6e-4f33-abb7-de675d3d34f3)
 
 #
-#9 Airbnb Listings
+#10 Airbnb Listings
 
 This Power BI project for a client explored the impact of updated Airbnb prices on host ratings. I analyzed Airbnb listings to see how price changes affected overall host ratings and identified which hosts managed to maintain their ratings despite price adjustments.
 ###
