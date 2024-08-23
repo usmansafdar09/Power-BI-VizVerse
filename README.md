@@ -59,7 +59,14 @@ The dashboard provides an overview of the main KPIs and channel-wise performance
 ![Frame 48095718](https://github.com/user-attachments/assets/d859a677-5b6e-4f33-abb7-de675d3d34f3)
 
 #
-#10 Airbnb Listings
+#10 Business Financial Dashboard
+
+The dashboard was created using Power BI for a sports company’s financial reporting for 2023. It’s divided into three pages: Overview, Profitability, and Insights. Each page is designed to address key financial questions, providing clear, concise answers and a user-friendly experience.
+###
+![Frame 101](https://github.com/user-attachments/assets/18e5db13-b928-45d0-b15d-7e5f6c838711)
+
+#
+#11 Airbnb Listings
 
 This Power BI project for a client explored the impact of updated Airbnb prices on host ratings. I analyzed Airbnb listings to see how price changes affected overall host ratings and identified which hosts managed to maintain their ratings despite price adjustments.
 ###
